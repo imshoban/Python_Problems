@@ -1,4 +1,4 @@
-#Finding number of matching pairs 
+#Finding number of matching pair 
 def sockMerchant(n, ar):
     matching_Pairs=0
     new_set=set(ar)
